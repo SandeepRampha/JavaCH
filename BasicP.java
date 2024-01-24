@@ -1,3 +1,4 @@
+//CODING HUB 16
 /*Find Simple Interest for the following values SI = PTR/100; P=1000, T=2, R= 3 
 class intrest
 {
